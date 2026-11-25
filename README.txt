@@ -1,0 +1,1 @@
+Загрузите собственные прозрачные PNG в assets/banner-1.png и assets/banner-2.png. Места зарезервированы. Откройте index.html или разместите его вместе с assets на GitHub Pages. TikTok требует интернета. Таймер посещения не управляет ценой на Buy Me a Coffee.
